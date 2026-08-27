@@ -1,0 +1,92 @@
+[
+  {
+    "condition": "Common cold",
+    "symptoms": ["runny nose", "sore throat", "sneezing"],
+    "causes": ["viral infection"],
+    "warnings": "Seek medical help if high fever or breathing difficulties occur.",
+    "recommendations": "Rest, fluids, paracetamol for symptoms.",
+    "source_url": "https://example.org/common-cold",
+    "scraped_at": "2026-08-01T12:00:00Z"
+  },
+  {
+    "condition": "Influenza",
+    "symptoms": ["fever", "muscle aches", "cough", "sore throat"],
+    "causes": ["influenza virus"],
+    "warnings": "If severe breathlessness or confusion develop, seek urgent care.",
+    "recommendations": "Antiviral treatment if within 48 hours; rest and fluids.",
+    "source_url": "https://example.org/influenza",
+    "scraped_at": "2026-08-01T12:05:00Z"
+  },
+  {
+    "condition": "Migraine",
+    "symptoms": ["throbbing headache", "sensitivity to light", "nausea"],
+    "causes": ["neurological mechanisms"],
+    "warnings": "If sudden severe headache (\"thunderclap\") occurs, get urgent care.",
+    "recommendations": "Pain relief, rest in a dark room, seek medical review for preventive options.",
+    "source_url": "https://example.org/migraine",
+    "scraped_at": "2026-08-01T12:10:00Z"
+  },
+  {
+    "condition": "Gastroenteritis",
+    "symptoms": ["diarrhoea", "vomiting", "stomach cramps"],
+    "causes": ["viral or bacterial infection"],
+    "warnings": "Watch for dehydration; seek care if unable to keep fluids down.",
+    "recommendations": "Oral rehydration, rest; seek GP if symptoms severe or persistent.",
+    "source_url": "https://example.org/gastroenteritis",
+    "scraped_at": "2026-08-01T12:15:00Z"
+  },
+  {
+    "condition": "Asthma",
+    "symptoms": ["wheezing", "shortness of breath", "chest tightness"],
+    "causes": ["airway inflammation, triggers"],
+    "warnings": "Severe asthma attack requires emergency care.",
+    "recommendations": "Use prescribed inhalers and follow an asthma action plan.",
+    "source_url": "https://example.org/asthma",
+    "scraped_at": "2026-08-01T12:20:00Z"
+  },
+  {
+    "condition": "Chickenpox",
+    "symptoms": ["fever", "itchy rash", "fluid-filled blisters"],
+    "causes": ["varicella zoster virus"],
+    "warnings": "Newborns or immunocompromised people need urgent review.",
+    "recommendations": "Calamine lotion for itch, paracetamol for fever; seek advice if severe.",
+    "source_url": "https://example.org/chickenpox",
+    "scraped_at": "2026-08-01T12:25:00Z"
+  },
+  {
+    "condition": "Urinary tract infection",
+    "symptoms": ["painful urination", "frequent urination", "lower abdominal pain"],
+    "causes": ["bacterial infection"],
+    "warnings": "If fever, flank pain or vomiting develop, seek urgent care.",
+    "recommendations": "See GP for antibiotics; drink fluids.",
+    "source_url": "https://example.org/uti",
+    "scraped_at": "2026-08-01T12:30:00Z"
+  },
+  {
+    "condition": "Tension headache",
+    "symptoms": ["dull headache", "tightness around head", "neck stiffness"],
+    "causes": ["muscle tension"],
+    "warnings": "If patterns change or are unusually severe, get checked.",
+    "recommendations": "Analgesics, stress management, posture correction.",
+    "source_url": "https://example.org/tension-headache",
+    "scraped_at": "2026-08-01T12:35:00Z"
+  },
+  {
+    "condition": "Allergic rhinitis",
+    "symptoms": ["sneezing", "runny nose", "itchy eyes"],
+    "causes": ["allergic response to pollen, dust or pets"],
+    "warnings": "If breathing difficulties occur seek urgent care.",
+    "recommendations": "Antihistamines, nasal steroids, avoid triggers.",
+    "source_url": "https://example.org/allergic-rhinitis",
+    "scraped_at": "2026-08-01T12:40:00Z"
+  },
+  {
+    "condition": "Type 2 diabetes",
+    "symptoms": ["increased thirst", "frequent urination", "fatigue"],
+    "causes": ["insulin resistance"],
+    "warnings": "If signs of diabetic ketoacidosis or severe hyperglycaemia occur seek urgent care.",
+    "recommendations": "Lifestyle changes, medication per GP; regular monitoring.",
+    "source_url": "https://example.org/type-2-diabetes",
+    "scraped_at": "2026-08-01T12:45:00Z"
+  }
+]
